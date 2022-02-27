@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The game is up: or, XXXI new quæries and orders; fitted for the present state of affairs, and recommended to the Councell of Officers. Together with an old prophesie, newly found out.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85675</idno>
+            <idno type="STC">Wing G189</idno>
+            <idno type="STC">Thomason E1005_12</idno>
+            <idno type="STC">ESTC R202265</idno>
+            <idno type="EEBO-CITATION">99862615</idno>
+            <idno type="PROQUEST">99862615</idno>
+            <idno type="VID">114780</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114780)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 149:E1005[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The game is up: or, XXXI new quæries and orders; fitted for the present state of affairs, and recommended to the Councell of Officers. Together with an old prophesie, newly found out.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 5"; "Nou.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114780:1" rendition="simple:additions"/>
+            <p> The Game is up: Or, XXXI New QVAERIES AND ORDERS;</p>
+            <p>Fitted for the preſent State of Affairs, and recommended to the Councell of Officers.</p>
+            <p>Together with an Old Propheſie, newly found out.</p>
+            <p>Printed in the year 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="queries">
+            <pb facs="tcp:114780:2"/>
+            <pb n="3" facs="tcp:114780:2"/>
+            <head>
+               <hi>THE GAME IS UP.</hi> Or, XXXI New QUAERIES AND ORDERS.</head>
+            <p n="1">1. <seg rend="decorInit">W</seg>Hether, when the Parliament firſt ſate, and a Queſtion ariſing, what name the Houſe ſhould be call'd by; and Alderman <hi>Atkins</hi> gi<g ref="char:EOLhyphen"/>ving his opinion, that it ſhould be call'd a <hi>Houſe of Office,</hi> were ſuitable to his judgment? For at that time they had not voted him into a Place in the Exciſe, and ſo, by conſequence, he had not done his buſineſſe.</p>
+            <p n="2">2. Whether <hi>Prideaux,</hi> when he left the world,
+<pb n="4" facs="tcp:114780:3"/> did not, by order from his fellow-Members, ride poſt to hell, to tell their Patron, they would not be long behind?</p>
+            <p n="3">3. Whether, when that Rump of a Parliament ſent <hi>Lambert</hi> that Preſent, they did not give him a knife to cut their own throats? Or, when he melted it into Liquor, and beſtow'd it upon his <hi>Janizaries,</hi> whether the Army drank more for the Rump, or <hi>Lambert?</hi>
+            </p>
+            <p n="4">4. Whether, when <hi>Atkins</hi> was call'd to ſit as a Member in the Houſe, it was not propheticall, and ſignifi'd, that buſineſſes were like to go back<g ref="char:EOLhyphen"/>ward?</p>
+            <p n="5">5. Whether, when the City-Slaves invited their Chains to dinner, it was not well and conſcien<g ref="char:EOLhyphen"/>tiouſly done of the Army, to let the Parliament dine before they gave them a purge; and to let their bellies be full, before they ſent their bones to reſt?</p>
+            <p n="6">6. Whether <hi>Lambert</hi> may not fitly be made High Conſtable, having lately laid ſo many Gen<g ref="char:EOLhyphen"/>tlemen by the heels; or whether he ought not ra<g ref="char:EOLhyphen"/>ther to have that Office, becauſe he hath got the better end of the ſtaff?</p>
+            <p n="7">7. Whether the Lord Mayor, by ſhaving his deteſtable chops, did not put a new affront upon the City, and thereby ſhow'd them, that after all his impudence, he was not aſham'd to ſhew his face?</p>
+            <p n="8">8. Ordered by the Common-Councill, That the Lord Mayor, for that elaborate Oration which he made to the Parliament, and which he emphatically expreſt by the bowing of his body, be ſent forthwith to the Army, to congratulate this new change.</p>
+            <p n="9">
+               <pb n="5" facs="tcp:114780:3"/> 9. Whether there be any thing like a Bluſh in the whole Army, beſides their Coats?</p>
+            <p n="10">10. Whether mad <hi>Sedgwick,</hi> when he was pro<g ref="char:EOLhyphen"/>phaneing Scripture, and mocking God with a Faſt, when he ſaid, It was a <hi>Lambert</hi> that firſt compil'd the Laws, and it is a <hi>Lambert</hi> that muſt reform them, did not intend, that <hi>Lambert</hi> would cudgell the Laws into better manners; becauſe, when they gave rules to other men, they did not, by a particular exception, leave him to do what he liſt?</p>
+            <p n="11">11. Whether the Army-Officers want any thing, but their heads to be ſhav'd, and their heeles to be fetter'd, to make them fit for <hi>Bedlam?</hi> And whether thoſe hair-brain'd fellowes, did not therefore, at their private Faſt, do well, to chuſe a mad, man to whine, and carry on the ſins of that day?</p>
+            <p n="12">12. Whether, by reaſon of the ſhutting up of the Houſe of Parliament, (a place lately infected with the Plague) the Citizens of <hi>London</hi> may not write over their dores, <hi>The Lord have mercy upon us?</hi>
+            </p>
+            <p n="13">13. Whether <hi>Henry Martin,</hi> if we ſhould go to Wars with the Whore of <hi>Babylon,</hi> would not be the man that ſhould fling the firſt ſtone?</p>
+            <p n="14">14. Whether <hi>Henry Martin</hi> was fit to be made a Parliament-man, being he could never meet with a ſmirking Wench, but he was ready to reveal his <hi>Secrets?</hi>
+            </p>
+            <p n="15">15. Ordered, That if <hi>Henry Martin</hi> ſhould loſe his hair, by reaſon of the many hot ſervices, to which he had expoſed his body; the Lord Mayor, to re<g ref="char:EOLhyphen"/>pair the loſſe, ſhould chop off a corner of his beard to make him a Periwig.</p>
+            <p n="16">
+               <pb n="6" facs="tcp:114780:4"/> 16. Ordered by the Army, That whereas in their Addreſſe to the long and ſhort Parliament, they did then acknowledge, that by the wonder<g ref="char:EOLhyphen"/>full goodneſſe of God their eyes were opened, be intended to be onely a miſtake in the Printer.</p>
+            <p n="17">17. Whether, when Satan removed his houſ<g ref="char:EOLhyphen"/>hold-ſtuff from <hi>Weſtminſter,</hi> he did not take up his Quarters at <hi>Wallingford-houſe?</hi> And if he did, Whether the Army ought not to go a houſe-warming thither? And whether Sir <hi>Arthur Hair-brains,</hi> and <hi>Alderman Beardleſſe,</hi> larded with a load or two of <hi>Atkins</hi>'s greaſe, ought not to be ſent to the Devill for a Breakfaſt, and that Do<g ref="char:EOLhyphen"/>ctor <hi>Owen</hi> be appointed to ſay Grace.</p>
+            <p n="18">18. Whether <hi>Vane</hi>'s name doth not agree with his nature, being he can ſo well comply with the Times, and turn according as the wind blowes?</p>
+            <p n="19">19. Whether if <hi>Baxter</hi> ſhould bring ſufficient witneſſes to prove, that <hi>Lambert</hi> was a Jeſuite, he were like to get the better? becauſe <hi>Lambert</hi> is a man of ſuch a turbulent and unruly ſpirit, that the Judges will not believe it a thing poſſible, that he could ever find in his heart to enter into <hi>Orders.</hi>
+            </p>
+            <p n="20">20. Ordered, That the City-Cuckolds do from henceforth maintain their Militia, and put them<g ref="char:EOLhyphen"/>ſelves into a poſture of War; and that Alderman <hi>Ireton</hi> be appointed to lead up the Van.</p>
+            <p n="21">21. Orderdered by the Commiſſion-Officers of the Army, that a trick be put upon the Third Commandment; <hi>viz.</hi> That forſwearing is not to take the name of the Lord in vain, but to good purpoſe.</p>
+            <p n="22">22. Ordered, that from henceforth none be ac<g ref="char:EOLhyphen"/>counted honeſt, unleſſe they be firſt approved of by the Officers of the Army.</p>
+            <p n="23">
+               <pb n="7" facs="tcp:114780:4"/> 23. Ordered, That Acts of Oblivion be hence<g ref="char:EOLhyphen"/>forth generally practiſed, by the good people of theſe Nations, till every man hath forgot his duty as well as the Army. And for farther amendment of the Bill, let no man dare to teach the art of Memory, beſides a <hi>Redcoat,</hi> when he comes for Taxes and Contributions.</p>
+            <p n="24">24. Whether Alderman <hi>Atkins,</hi> ought not to be confin'd, being he is ſo apt to flye out? or whe<g ref="char:EOLhyphen"/>ther it be a fit or diſcreet thing of the City, to ad<g ref="char:EOLhyphen"/>mit him into the ſcarlet Counſell, being he is ſo generally known to be a looſe-liver?</p>
+            <p n="25">25. Whether God can endure to look upon the Nation, without holding his Hand between His Eye, and the Army?</p>
+            <p n="26">26. Whether if <hi>Ferdinando</hi> the Jew were now to fiſh for the Divell, he would not chuſe to bait his hook with a Lobſter?</p>
+            <p n="27">27. Whether <hi>Deus dabit his quoque funem,</hi> were not a fit Motto for the Army?</p>
+            <p n="28">28. Ordered, That whereas <hi>Bradſhaw</hi> being now ready to leave England, and ſaile into the Low-Countries, <hi>Hazlerig</hi> be forthwith ſent to <hi>New-Castle,</hi> to trade with the Divel for coals, that ſo he may be welcom'd with a fire equall to his merits.</p>
+            <p n="29">29. Whether the godly Army have not made the people of <hi>England</hi> truly feel what the Scrip<g ref="char:EOLhyphen"/>ture only told them in a figure, That the Word of God is a two-edg'd ſword?</p>
+            <p n="30">30. Whether <hi>Titchburn,</hi> being a neat timber'd Lad, if he were at <hi>Tiburn</hi> tottering in his Chaine, would not ſwing with abundance of Diſcretion? and whether he being a man that deſerv'd as well
+<pb n="8" facs="tcp:114780:5"/> as any, it were not a great deal of pitty but his turn ſhould be ſerv'd firſt?</p>
+            <p n="31">31. Whether <hi>Monck</hi> will not, by all perſons, be accounted an Ape, if he offer to comply with the preſent Juncto of the Army.</p>
+            <p>
+               <hi>Ordered that H.</hi> Martin, <hi>the Lord</hi> Mounſon, <hi>and Mr.</hi> Scot, <hi>be Commiſſioners of the Bawdy-Court, and that</hi> Wat Long <hi>be chief Regiſter, and that R.</hi> Smith, <hi>and R.</hi> Harper, <hi>be his Deputies.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="prophecy">
+            <head>An Old Propheſie newly found out.</head>
+            <lg>
+               <l>When the <hi>Monck</hi> ſhall unvaile his hood,</l>
+               <l>And fifty Thouſand here ſhall raigne,</l>
+               <l>And Traitors Heads ſhall ſwim in blood,</l>
+               <l>We ſhall be happy then again.</l>
+               <l>Till then expect no Settlement,</l>
+               <l>From Army or from Parliament.</l>
+            </lg>
+            <p>
+               <hi>The Numericall Letters are</hi> L. M.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
